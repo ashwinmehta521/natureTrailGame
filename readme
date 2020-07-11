@@ -1,0 +1,21 @@
+The Nature Trail game begins with a message requesting the player to enter the length of the trail.
+The trail can be any length from 10 to 20 places inclusive. Following this there is a message
+requesting the human player to enter their name. The name must be between 1 and 6 characters in
+length and not begin or end with a space character. The other player will be the computer.
+To determine who has the first turn each player ‘rolls’ a 4-sided dice and the player with the higher
+number takes first turn. If the numbers are equal then the dice is rolled again by both players. This
+continues until one player has a higher number. Note that the human player ‘rolls’ the dice by
+pressing the enter key, but the game automatically ‘rolls’ the dice for the computer player.
+The game play begins with both players (human and computer) at the start position (S). The players
+take turns to roll a 4-sided dice and move forward the number of places shown by the dice. At each
+position along the nature trail there is a random chance of sighting an animal and gaining points
+according to the type of animal. Some positions have an action because of a special feature on the
+trail. The action involves moving forwards or backwards along the trail. When the player moves to a
+position they gather any points for an animal sighting and then follow the special action. The game
+ends when the first player reaches the finish position (F). The winner of the game is the player who
+has collected the most points.
+The following are the game rules:
+1. Each player starts the game with zero points.
+2. When a player lands on a position on the nature trail they have a 50% chance of sighting an
+animal. There are five different animals and there is an equal chance of sighting each type of
+animal, but only one animal can be sighted for each turn. 
