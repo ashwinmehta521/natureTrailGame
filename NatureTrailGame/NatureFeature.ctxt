@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=NatureFeature
+comment0.text=\r\n\ Stores\ information\ about\ a\ nature\ feature\r\n\ provides\ accessor\ and\ mutator\ methods\ for\ featurePosition,\ featureType\ and\ spacePenalty\r\n\ @author\ (Ashwin\ Ashok\ Mehta)\r\n\ @version\ (05/04/2019)\r\n
+comment1.params=
+comment1.target=NatureFeature()
+comment1.text=\r\n\ NatureFeature\ Default\ Constructor\r\n\ initializes\ the\ fields\ to\ the\ default\ values\r\n
+comment2.params=newFeaturePosition\ newFeatureType\ newSpacePenalty
+comment2.target=NatureFeature(int,\ java.lang.String,\ int)
+comment2.text=\r\n\ NatureFeature\ Non-Default\ Constructor\r\n\ initializes\ fields\ to\ the\ assigned\ values\r\n\ @param\ newFeaturePosition\ a\ formal\ parameter\ of\ integer\ type\r\n\ @param\ newFeatureType\ a\ formal\ parameter\ of\ String\ type\r\n\ @param\ newSpacePenalty\ a\ formal\ parameter\ of\ integer\ type\r\n
+comment3.params=
+comment3.target=java.lang.String\ displayFeature()
+comment3.text=\r\n\ Method\ displayFeature\r\n\ To\ display\ the\ current\ state\ of\ a\ nature\ feature\r\n\ @return\ the\ current\ state\ of\ nature\ feature\ in\ the\ string\ format\r\n
+comment4.params=
+comment4.target=int\ getFeaturePosition()
+comment4.text=\r\n\ Method\ getFeaturePosition\r\n\ To\ get\ the\ value\ of\ position\ field\ of\ the\ NatureFeature\ class\r\n\ @return\ it\ returns\ the\ position\ as\ a\ integer\r\n
+comment5.params=
+comment5.target=java.lang.String\ getFeatureType()
+comment6.params=
+comment6.target=int\ getSpacePenalty()
+comment7.params=newFeaturePosition
+comment7.target=void\ setFeaturePosition(int)
+comment8.params=newFeatureType
+comment8.target=void\ setFeatureType(java.lang.String)
+comment9.params=newSpacePenalty
+comment9.target=void\ setSpacePenalty(int)
+numComments=10

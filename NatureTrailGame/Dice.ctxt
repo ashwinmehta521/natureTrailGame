@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dice
+comment1.params=
+comment1.target=Dice()
+comment2.params=newMinimumNumber\ newMaximumNumber
+comment2.target=int\ generateRandomNumber(int,\ int)
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Trail
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Trail\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Trail()
+comment2.params=size
+comment2.target=Trail(int)
+comment3.params=index
+comment3.target=NatureFeature\ getFeature(int)
+comment4.params=index\ newFeaturePosition\ newFeatureType\ newSpacePenalty
+comment4.target=void\ setFeature(int,\ int,\ java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ setupFeatures()
+numComments=6
